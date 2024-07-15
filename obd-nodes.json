@@ -1,0 +1,16 @@
+[
+  {
+    "branch": {
+      "fullyQualifiedName": "Vehicle",
+      "description": "OBD"
+    }
+  },
+  {
+    "sensor": {
+      "dataType": "FLOAT",
+      "fullyQualifiedName": "Vehicle.Speed",
+      "description": "PID 0D - Vehicle speed",
+      "unit": "km/h"
+    }
+  }
+ ]
