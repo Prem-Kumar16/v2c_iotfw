@@ -1,0 +1,17 @@
+[
+{
+            "canSignal": {
+                "name": "DI_vehicleSpeed",
+                "factor": 0.08,
+                "isBigEndian": false,
+                "isSigned": false,
+                "length": 12,
+                "messageId": 257,
+                "offset": -40,
+                "startBit": 12
+            },
+            "fullyQualifiedName": "Vehicle.Speed",
+            "interfaceId": "1",
+            "type": "CAN_SIGNAL"
+ }
+ ]
