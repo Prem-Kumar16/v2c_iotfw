@@ -1,0 +1,15 @@
+{
+  "compression": "SNAPPY",
+  "diagnosticsMode": "SEND_ACTIVE_DTCS",
+  "spoolingMode": "TO_DISK",
+  "collectionScheme": {
+    "timeBasedCollectionScheme": {
+      "periodMs": 10000
+    }
+  },
+  "signalsToCollect": [
+    {
+      "name": "DI_vehicleSpeed"
+    }
+  ]
+}
