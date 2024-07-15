@@ -1,7 +1,7 @@
 # Getting started with FWE
 
--> https://github.com/aws/aws-iot-fleetwise-edge/blob/main/docs/dev-guide/edge-agent-dev-guide.md#getting-started-guide
--> Use the cfn template to spin up the ec2 graviton instance.
+- https://github.com/aws/aws-iot-fleetwise-edge/blob/main/docs/dev-guide/edge-agent-dev-guide.md#getting-started-guide
+- Use the cfn template to spin up the ec2 graviton instance.
 -> Upgrade from Ubuntu 20.04 to 22.04 (For getting compatible python version)
 -> To use the ic flutter app, install ubuntu GUI
 -> Do aws configure
